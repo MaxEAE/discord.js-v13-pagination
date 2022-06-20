@@ -1,0 +1,21 @@
+{
+  "name": "discord.js-v13-pagination",
+  "version": "0.0.6",
+  "description": "A pagination module for Discord.js v13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxEAE/discord.js-v13-pagination"
+  },
+  "keywords": [
+    "discord.js",
+    "pagination",
+    "v13",
+    "reaction-embed"
+  ],
+  "author": "Ambrou",
+  "license": "MIT"
+}
